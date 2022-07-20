@@ -1,0 +1,21 @@
+.authentication{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://pnptc-media.s3.amazonaws.com/images/header_photo.2e16d0ba.fill-1200x800.jpg');
+    background-size: 100% 100%;
+}
+.authentication .ant-row{
+    width: 100%;
+    justify-content: center !important;
+}
+
+.authentication form{
+    background-image: url('./output.png');
+    border-radius: 20px;
+    
+    padding: 20px;
+}
+.authentication form h1{
+    text-align: center;
+}
